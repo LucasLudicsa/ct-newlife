@@ -37,8 +37,12 @@ vercel --prod
 
 ## Placeholders still to replace
 
-- **Address** — shown as `PLACEHOLDER - endereco a confirmar` in the contact
-  section and footer. The map is a generic OpenStreetMap view of the DDD-16
-  region with no pin.
+- **Address** — `PLACEHOLDER - endereco a confirmar` in the contact section
+  and in the footer.
+- **Map** — generic OpenStreetMap view of São Paulo state, no pin. Replace the
+  `<iframe src>` bbox once the address is known.
+- **Weekday/Saturday hours** — `PLACEHOLDER - horario de seg a sab a confirmar`
+  in the contact section. Only the holiday hours (11h–14h) are confirmed.
 
-The WhatsApp number `(16) 98100-4362` is the real one from the Instagram profile.
+Not placeholders — these are real, taken from the brand's own posts/profile:
+WhatsApp `(16) 98100-4362`, Instagram `@c.t_newlife`, and every plan price.
