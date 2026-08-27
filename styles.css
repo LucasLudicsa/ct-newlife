@@ -543,7 +543,7 @@ h1, h2, h3 {
   height: 320px;
   border: 0;
   display: block;
-  filter: grayscale(0.55) contrast(1.02) brightness(0.9);
+  filter: grayscale(0.45) contrast(1.03) brightness(0.98);
 }
 .map::before {
   content: "";
